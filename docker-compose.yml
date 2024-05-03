@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  cameraapi:
+    image: ${DOCKER_REGISTRY}cameraapi
+    build:
+      context: .
+      dockerfile: CameraAPI/Dockerfile
+    ports:
+      - "4211:80"
+      - "4222:443"
