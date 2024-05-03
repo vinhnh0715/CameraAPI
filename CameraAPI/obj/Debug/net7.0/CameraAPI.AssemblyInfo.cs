@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CameraAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bf22ad92619cc39c128dc4f24c8104e0ddb7936")]
 [assembly: System.Reflection.AssemblyProductAttribute("CameraAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CameraAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

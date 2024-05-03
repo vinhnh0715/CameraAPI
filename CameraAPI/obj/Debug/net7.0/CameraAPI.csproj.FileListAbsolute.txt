@@ -34,3 +34,4 @@ C:\Users\Viktor\source\repos\CameraAPI\CameraAPI\obj\Debug\net7.0\refint\CameraA
 C:\Users\Viktor\source\repos\CameraAPI\CameraAPI\obj\Debug\net7.0\CameraAPI.pdb
 C:\Users\Viktor\source\repos\CameraAPI\CameraAPI\obj\Debug\net7.0\CameraAPI.genruntimeconfig.cache
 C:\Users\Viktor\source\repos\CameraAPI\CameraAPI\obj\Debug\net7.0\ref\CameraAPI.dll
+C:\Users\Viktor\source\repos\CameraAPI\CameraAPI\obj\Debug\net7.0\CameraAPI.sourcelink.json
